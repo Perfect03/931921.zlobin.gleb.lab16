@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\attachments\\5772d7f50b5649edb77f7c03bde3110a.jpg",
+      "PackagePath": "staticwebassets\\attachments\\5772d7f50b5649edb77f7c03bde3110a.jpg"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\attachments\\empty.txt",
+      "PackagePath": "staticwebassets\\attachments\\empty.txt"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Загрузки\\web6\\web6\\WebApplication8\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication8.props",
+      "PackagePath": "build\\WebApplication8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication8.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication8.props",
+      "PackagePath": "buildTransitive\\WebApplication8.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

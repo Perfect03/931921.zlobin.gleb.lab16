@@ -1,0 +1,289 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication8
+build_property.RootNamespace = WebApplication8
+build_property.ProjectDir = D:\Загрузки\web6\web6\WebApplication8\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Загрузки\web6\web6\WebApplication8
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Files/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Files/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Files/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Files/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Files/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Folders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sZGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Folders/Create2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sZGVyc1xDcmVhdGUyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Folders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sZGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Folders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Folders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sZGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Folders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumCategorys/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yeXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumCategorys/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yeXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumCategorys/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yeXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumCategorys/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yeXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumCategorys/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1DYXRlZ29yeXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessageAttachments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlQXR0YWNobWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessageAttachments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlQXR0YWNobWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessageAttachments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlQXR0YWNobWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessageAttachments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlQXR0YWNobWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessageAttachments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlQXR0YWNobWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumMessages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1NZXNzYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Forums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Forums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Forums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Forums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Forums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumTopics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1Ub3BpY3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumTopics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1Ub3BpY3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumTopics/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1Ub3BpY3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumTopics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1Ub3BpY3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/ForumTopics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1Ub3BpY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Mockups/AllForums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xBbGxGb3J1bXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Mockups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Mockups/SingleForum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaW5nbGVGb3J1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Mockups/SingleTopic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xTaW5nbGVUb3BpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostAttachments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEF0dGFjaG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostAttachments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEF0dGFjaG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostComments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENvbW1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostComments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENvbW1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/PostComments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdENvbW1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Загрузки/web6/web6/WebApplication8/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
